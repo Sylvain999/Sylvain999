@@ -8,15 +8,17 @@
 
 ### Pour me contacter :
 
-<div style="display : flex">
+<div style="display : flex; alignItems : center">
   <img height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/> 
   <a href="linkedin.com/in/sylvain-frediani-a0b9951b7">mon linkedin </a>
 </div>
 
 </br>
 
-<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/> 
-<a href="mailto:sylvain.frediani@gmail.com">sylvain.frediani@gmail.com</a>
+<div style="display : flex; alignItems : center">
+  <img height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/> 
+  <a href="mailto:sylvain.frediani@gmail.com">sylvain.frediani@gmail.com</a>
+</div>
 
 
 
