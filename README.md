@@ -7,8 +7,9 @@
 </p>
 
 <p>
-  Vous pouvez aussi consulter mon portfolio<a href="https://sylvain999.github.io/MyPortfolio/">ici</a>
+  Vous pouvez aussi consulter mon portfolio<a href="https://sylvain999.github.io/MyPortfolio/"> ici.</a>
 </p>
+
 ### Pour me contacter :
 
 <div style="display : flex; alignItems : center">
