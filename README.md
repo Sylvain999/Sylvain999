@@ -6,6 +6,9 @@
   Actuellement étudiant en DUT Informatique à l'IUT du Limousin, je suis particulièrement intéréssé par la cybersécurité et la conception logicielle.
 </p>
 
+<p>
+  Vous pouvez aussi consulter mon portfolio<a href="https://sylvain999.github.io/MyPortfolio/">ici</a>
+</p>
 ### Pour me contacter :
 
 <div style="display : flex; alignItems : center">
