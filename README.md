@@ -8,8 +8,8 @@
 
 ### Pour me contacter :
 
-<div>
-  <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/> 
+<div style="display : flex">
+  <img height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/> 
   <a href="linkedin.com/in/sylvain-frediani-a0b9951b7">mon linkedin </a>
 </div>
 
