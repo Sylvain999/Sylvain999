@@ -1,5 +1,7 @@
-# Salut, je m'appelle Sylvain FREDIANI
-## Étudiant en informatique
+<div style="text-align : center"> 
+  <h1>Salut, je m'appelle Sylvain FREDIANI</h1>
+  <h2>Étudiant en informatique</h2>
+</div>
 
 ### Qui suis-je :
 <p>
