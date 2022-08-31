@@ -4,7 +4,7 @@
 
 ### Qui suis-je :
 <p>
-  Actuellement étudiant en DUT Informatique à l'IUT du Limousin, je suis particulièrement intéréssé par la cybersécurité et la conception logicielle.
+  Actuellement étudiant en formation d'ingénieur au sein de l'ENSIMAG, je m'intéresse à différents domaines de l'informatique, notamment cybersécurité, conception de jeux vidéos ainsi que Inteligence Artificielle.
 </p>
 
 <p>
